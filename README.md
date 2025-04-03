@@ -32,8 +32,7 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 
 
 ## ✉️ Have an issues or a bug? Would like to contact?
-Report [here](https://github.com/Chandana047/Blood-Bank-Management-System/issues)
-
+Report [here](https://docs.google.com/forms/d/e/1FAIpQLSeli82c_6aGSvRX93VkeUbb5ZMsndko9afLWuKVCxGFAx1DwA/viewform?usp=sharing)
 ## If you liked the project and found it helpful
 Give a start 😄:star:
 
